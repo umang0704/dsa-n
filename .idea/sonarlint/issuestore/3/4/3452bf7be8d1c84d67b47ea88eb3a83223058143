@@ -1,0 +1,38 @@
+
+L
+java:S18541"6Remove this useless assignment to local variable "jm".(¼òæŠ
+Q
+java:S18540"6Remove this useless assignment to local variable "im".(Íı…Ùşÿÿÿÿ
+B
+java:S14810"'Remove this unused "im" local variable.(Íı…Ùşÿÿÿÿ
+=
+java:S14811"'Remove this unused "jm" local variable.(¼òæŠ
+N	java:S1062"9Replace this use of System.out or System.err by a logger.(¶˜†
+S	java:S1066"9Replace this use of System.out or System.err by a logger.(”ø—®şÿÿÿÿ
+S	java:S106:"9Replace this use of System.out or System.err by a logger.(ŸŒÒşÿÿÿÿ
+S	java:S106>"9Replace this use of System.out or System.err by a logger.(Éšìëùÿÿÿÿ
+S	java:S106O"9Replace this use of System.out or System.err by a logger.(ƒô·èûÿÿÿÿ
+]	java:S125N"<This block of commented-out lines of code should be removed.(×¡£Îşÿÿÿÿ8¼Ù†¦¤0
+G
+java:S1197\",Move the array designators [][] to the type.(´ØìÓıÿÿÿÿ
+S	java:S106]"9Replace this use of System.out or System.err by a logger.(Åª½Ëùÿÿÿÿ
+S	java:S106b"9Replace this use of System.out or System.err by a logger.(€ŸÔØøÿÿÿÿ
+S	java:S106c"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ
+S	java:S106e"9Replace this use of System.out or System.err by a logger.(Åª½Ëùÿÿÿÿ
+S	java:S106j"9Replace this use of System.out or System.err by a logger.(Åª½Ëùÿÿÿÿ
+M	java:S106n"9Replace this use of System.out or System.err by a logger.(’Öõ
+S	java:S106o"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ
+S	java:S106q"9Replace this use of System.out or System.err by a logger.(Åª½Ëùÿÿÿÿ
+
+java:S1192]"uDefine a constant instead of duplicating this literal "____________________________________________________" 4 times.(Åª½Ëùÿÿÿÿ
+‹
+java:S1319"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(¤Ç®ıÿÿÿÿ
+|
+java:S1319"aThe type of "A" should be an interface such as "List" rather than the implementation "ArrayList".(¤Ç®ıÿÿÿÿ
+|
+java:S1319-"aThe type of "A" should be an interface such as "List" rather than the implementation "ArrayList".(Û÷êÚıÿÿÿÿ
+y
+java:S1319h"cThe type of "arr" should be an interface such as "List" rather than the implementation "ArrayList".(ùĞÕ
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¤Ç®ıÿÿÿÿ
+k	java:S117-"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Û÷êÚıÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÉŠÁ’úÿÿÿÿ

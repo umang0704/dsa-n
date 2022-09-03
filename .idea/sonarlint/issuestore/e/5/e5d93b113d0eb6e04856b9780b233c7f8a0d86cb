@@ -1,0 +1,11 @@
+
+U	java:S106%"9Replace this use of System.out or System.err by a logger.(Ëúò8¾‹­³0
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¼¾…
+}
+java:S4165"aRemove this useless assignment; "arr" already holds the assigned value along all execution paths.(ÖşáU8Ó‹­³0
+~
+java:S4165#"aRemove this useless assignment; "arr" already holds the assigned value along all execution paths.(×ıÌ‡8Ô‹­³0
+ƒ
+java:S4165"aRemove this useless assignment; "arr" already holds the assigned value along all execution paths.(Çøíßúÿÿÿÿ8Ô‹­³0
+ƒ
+java:S4165"aRemove this useless assignment; "arr" already holds the assigned value along all execution paths.(Ã›úäşÿÿÿÿ8Ó‹­³0

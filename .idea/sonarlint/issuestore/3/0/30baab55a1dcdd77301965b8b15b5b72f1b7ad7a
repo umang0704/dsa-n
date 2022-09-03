@@ -1,0 +1,10 @@
+
+Z	java:S106%"9Replace this use of System.out or System.err by a logger.(º‰—ûÿÿÿÿ8±à„©¥0
+T	java:S106&"9Replace this use of System.out or System.err by a logger.(çÃ¥8±à„©¥0
+U	java:S106'"9Replace this use of System.out or System.err by a logger.(§ú÷Û8±à„©¥0
+M
+java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8á††©¥0
+t
+java:S2293""YReplace the type specification in this constructor call with the diamond operator ("<>").(¦åÍÿüÿÿÿÿ
+m	java:S127"XRefactor the code in order to not assign to this loop counter from within the loop body.(™¶Á›
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÄëµŸüÿÿÿÿ
