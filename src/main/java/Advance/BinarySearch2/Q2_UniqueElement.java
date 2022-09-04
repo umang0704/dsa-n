@@ -6,6 +6,8 @@ import java.util.Arrays;
  * Question
  * All elements are repeating except for one element, all repeating element are placed ajacent.
  * Find Non Repeating Unique element.
+ * TC :O(log n)
+ * SC: O(1)
  */
 
 public class Q2_UniqueElement {

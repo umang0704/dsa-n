@@ -4,7 +4,7 @@ import java.util.Arrays;
 
 //Question
 //unsorted arr arr[n] of distinct elements,Find any local minima. minima is element smaller than adjacent elements
-//TC : O(log n)
+//TC : O(log n) SC: O(1)
 public class Q1_LocalMinima {
     private static int localMinima(int[] arr) {
         int i = 1;
